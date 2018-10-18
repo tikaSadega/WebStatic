@@ -1,6 +1,4 @@
-<!DOCTYPE HTML>
-
-<html>
+<?php
 	<head>
 		<title> </title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -435,4 +433,4 @@ print 'It took ' + i + ' iterations to sort the deck.';
 			</footer>
 
 	</body>
-</html>
+?>
